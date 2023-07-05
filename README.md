@@ -1,1 +1,1 @@
-# mini-olx
+# olx
